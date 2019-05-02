@@ -2,7 +2,9 @@
 It was our academic team project in 3rd year. The course was Database.
 
 Tool Used: Netbeans, wamp server
+
 Database: MySQL
+
 Language: Java
 
 1. It is basically a desktop app on which you can buy your desired mobile phones of different brands as a user. 
