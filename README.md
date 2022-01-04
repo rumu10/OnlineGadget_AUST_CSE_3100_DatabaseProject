@@ -1,5 +1,5 @@
 # OnlineGadget_AUST_CSE_3100_DatabaseProject
-It was our academic team project in 3rd year. The course was Database.
+It was my project in 3rd year. The course was Database.
 
 Tool Used: Netbeans, wamp server
 
